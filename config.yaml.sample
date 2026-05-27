@@ -1,0 +1,8 @@
+# Sample configuration for filewatcher
+watch:
+  - C:\\Users\\Public\\Documents
+  - C:\\ImportantData
+backup: C:\\filewatcher_backups
+interval: 1.0
+window_seconds: 10
+burst_threshold: 100

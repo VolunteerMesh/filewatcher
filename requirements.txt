@@ -1,0 +1,4 @@
+psutil>=5.9.0
+watchdog>=2.1.0
+pywin32>=303; platform_system == "Windows"
+pytest>=7.0
